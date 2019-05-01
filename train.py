@@ -23,7 +23,7 @@ import sys
 sys.path.append('src/')
 import Multi_FIT_V as Multi_FIT_V
 
-data = pickle.load(open('Data/final_physio_avg_new_split.pkl','rb'))
+data = pickle.load(open('data/final_physio_avg_new_split.pkl','rb'))
 
 
 params = {'bilstm_flag':True,
