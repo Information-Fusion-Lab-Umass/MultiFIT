@@ -4,4 +4,4 @@ This is the code for our model MultiFIT: Multi-resolution Networks For Flexible 
 
 -------------
 
-<img src="https://github.com/Information-Fusion-Lab-Umass/MultiFIT/blob/master/FIT_V.pdf">
+<img src="https://github.com/Information-Fusion-Lab-Umass/MultiFIT/blob/master/FIT_V.pdf?raw=true">
